@@ -29,7 +29,7 @@ Bonjour;
 voici ma page je mettrais  un nom de jeu scratch avec une photo, un nouveau jeu scratch serra rajouté chaque mois minimun.
 <br>
 <br>
-Si vos souhaitez télécharger scratch vous devrez clic 
+Si vous souhaitez télécharger scratch vous devrez clic 
 <a href="https://scratch.mit.edu/download/scratch2">
 ICI
 </a>.
