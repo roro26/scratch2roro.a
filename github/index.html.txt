@@ -1,5 +1,5 @@
 <html>
-<title>Jeu scratch 2 roro.a
+<title>Jeu scratch 2 roro.
 </title>
 <body bgcolor=black>
 <head>
