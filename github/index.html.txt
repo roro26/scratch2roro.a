@@ -1,5 +1,5 @@
 <html>
-<title>Jeu scratch 2 roro.
+<title>Jeu scratch 2 roro.a
 </title>
 <body bgcolor=black>
 <head>
@@ -29,7 +29,7 @@ Bonjour;
 voici ma page je mettrais  un nom de jeu scratch avec une photo, un nouveau jeu scratch serra rajouté chaque mois minimun.
 <br>
 <br>
-Si vous souhaitez télécharger scratch vous devrez clic 
+Si vos souhaitez télécharger scratch vous devrez clic 
 <a href="https://scratch.mit.edu/download/scratch2">
 ICI
 </a>.
